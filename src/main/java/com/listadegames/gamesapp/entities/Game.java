@@ -13,13 +13,15 @@ public class Game {
     private Long id;
     private String title;
 
-    @Column(name = "game_year") //O @Column muda o nome da variável lá na tabela dobanco de dados
+    @Column(name = "game_year") //O @Column(name = " ") muda o nome da variável lá na tabela dobanco de dados
     private Integer year;
     private String genre;
     private String platforms;
     private double score;
     private String imgUrl;
+    @Column(columnDefinition = "TEXT")
     private String shortDescription;
+    @Column(columnDefinition = "TEXT")
     private String longDescription;
 
     public Game() {
