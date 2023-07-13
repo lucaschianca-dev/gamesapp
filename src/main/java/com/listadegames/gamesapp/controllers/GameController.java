@@ -1,7 +1,6 @@
 package com.listadegames.gamesapp.controllers;
 
 import com.listadegames.gamesapp.dto.GameMinDTO;
-import com.listadegames.gamesapp.entities.Game;
 import com.listadegames.gamesapp.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
