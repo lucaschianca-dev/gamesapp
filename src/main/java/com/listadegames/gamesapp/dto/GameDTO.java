@@ -23,6 +23,7 @@ public record GameDTO(
                 game.getScore(),
                 game.getImgUrl(),
                 game.getShortDescription(),
-                game.getLongDescription());
+                game.getLongDescription()
+            );
     }
 }
