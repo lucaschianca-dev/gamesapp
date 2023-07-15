@@ -29,7 +29,7 @@ Prerequisites: Java 17
 
 ```bash
 # clone repository
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/lucaschianca-dev/gamesapp.git
 
 # enter the project folder
 cd >project folder<
