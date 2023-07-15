@@ -6,7 +6,6 @@ https://gamesapp-production.up.railway.app
 
 GamesApp is a back-end application (front-end will be built soon) developed during the **INTENSIVÃO JAVA SPRING** course, an event organized by [Devsuperior Java Spring](https://www.youtube.com/@DevsuperiorJavaSpring " DevSuperior youtube channel").
 
-The application consists of a game preference survey, where data is collected in the mobile app, and then listed in the web app, which also presents a dashboard with graphics based on this data.
 
 # Technologies used
 ## Back-end
@@ -37,7 +36,7 @@ cd >project folder<
 # run the project
 ```
 
-# Autor
+# Author
 
 Lucas Eduardo Chianca Braga
 
